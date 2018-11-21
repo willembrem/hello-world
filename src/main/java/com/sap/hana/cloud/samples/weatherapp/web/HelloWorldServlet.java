@@ -25,7 +25,7 @@ public class HelloWorldServlet extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		response.getWriter().println("Loginss!");
+		response.getWriter().println("Login screen for Interim Supplies!");
 	}
 
 	/**
